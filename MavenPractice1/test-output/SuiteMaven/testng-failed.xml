@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteMaven]">
+  <test name="TestMaven">
+    <classes>
+      <class name="package1.TestCase1"/>
+      <class name="package2.TestCase3"/>
+      <class name="package2.TestCase2"/>
+    </classes>
+  </test> <!-- TestMaven -->
+</suite> <!-- Failed suite [SuiteMaven] -->

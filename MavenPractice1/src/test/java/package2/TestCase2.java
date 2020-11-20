@@ -7,7 +7,7 @@ public class TestCase2 {
 	@Test
 	public void test2()
 	{
-		System.out.println("Package22 >> TestCase 2");
+		System.out.println("Package 2 >> TestCase 2");
 	}
 
 }
